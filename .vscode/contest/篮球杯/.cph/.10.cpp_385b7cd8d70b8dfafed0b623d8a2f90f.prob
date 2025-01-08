@@ -1,0 +1,1 @@
+{"name":"Local: 10","url":"e:\\Code\\.vscode\\contest\\篮球杯\\10.cpp","tests":[{"id":1732950302719,"input":"4\nRRRR","output":"6"},{"id":1732951348750,"input":"3\nFLR","output":"6"},{"id":1732951356784,"input":"3\nFRL","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\.vscode\\contest\\篮球杯\\10.cpp","group":"local","local":true}
